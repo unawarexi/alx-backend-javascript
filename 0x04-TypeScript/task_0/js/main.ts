@@ -26,7 +26,7 @@ const secondStudent: Student = {
 	location: "Kumasi"
 }
 
-// Create an array of students
+// students array
 const studentsList = [firstStudent, secondStudent];
 
 const table = document.getElementById('studentTable') as HTMLTableElement;
